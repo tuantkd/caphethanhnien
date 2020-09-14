@@ -137,7 +137,7 @@
             <div class="page-header float-right">
                 <div class="page-title">
                     <ol class="breadcrumb text-right">
-                        <li class="active">Bảng điều khiển</li>
+                        <li class="active">Dashboard</li>
                     </ol>
                 </div>
             </div>
